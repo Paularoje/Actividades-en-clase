@@ -1,5 +1,5 @@
 # Actividades-en-clase
-Ejercicios que trabajamos en clase de manera grupal
+Ejercicios que se trabajan en clase de manera grupal.
 
 INTEGRANTES (EQUIPO #4):
 - Daniel Baez Acevedo -2182815
