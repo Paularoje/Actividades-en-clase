@@ -1,5 +1,5 @@
 # Actividades-en-clase
-Ejercicios que se trabajan en clase de manera grupal.
+Ejercicios que se trabajan en la clase de Simulación Digital de manera grupal.
 
 INTEGRANTES (EQUIPO #4):
 - Daniel Baez Acevedo -2182815
